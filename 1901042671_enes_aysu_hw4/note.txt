@@ -1,0 +1,4 @@
+NOTE FOR FIRST 3 QUESTIONS
+
+The first 3 questions of the assignment were solved by the decrease with constant method. 
+According to this method, time complexity analysis was performed.
